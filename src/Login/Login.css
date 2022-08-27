@@ -1,0 +1,25 @@
+.cards {
+  margin-left: 28rem;
+  margin-top: 10rem;
+}
+.title1 {
+  font-weight: 900;
+  font-size: 2.2rem;
+  text-align: left;
+  margin-left: 1.4rem;
+  font-family: 'Times New Roman', Times, serif;
+}
+.title2{
+  margin-top: 0.7rem;
+  font-weight: 700;
+  text-align: left;
+  margin-left: 2rem;
+}
+.form-control {
+  margin: 0.5rem;
+  padding: 1rem;
+  font-size: 1.2rem;
+}
+.inputs {
+  margin: 1rem;
+}

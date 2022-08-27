@@ -1,0 +1,28 @@
+
+h4 {
+  margin-top: 1rem;
+  margin-left: 3rem;
+  font-weight: 400;
+}
+.cardbody {
+  margin-left: 2.7rem;
+  margin-right: 2.6rem;
+  margin-top: 2rem;
+  border-radius: 16px;
+  background: #f6f4f4;
+  box-shadow: 15px 15px 47px #cac8c8, -15px -15px 47px #ffffff;
+}
+.certify{
+    margin-top: 1.1rem;
+    margin-left: 1rem;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+}
+.button{
+    text-align: right;
+    margin-top: -3.2rem;
+    margin-right: 3rem;
+}
+.margin{
+    margin: 1rem;
+}

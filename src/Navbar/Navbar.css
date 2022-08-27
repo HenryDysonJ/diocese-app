@@ -1,0 +1,18 @@
+.icon {
+  font-size: 1.5rem;
+  margin-right: 3rem;
+  color: rgb(252, 251, 249);
+}
+.tit1 {
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: rgb(253, 252, 251);
+  margin-left: 2rem;
+  list-style: none;
+}
+.tit2 {
+  font-size: 15px;
+  color: rgb(252, 251, 249);
+  list-style: none;
+  margin-left: 2rem;
+}

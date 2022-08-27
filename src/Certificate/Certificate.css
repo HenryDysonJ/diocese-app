@@ -1,0 +1,46 @@
+.card-bo{
+ margin-top: 2rem;
+ margin-left: 8.5rem;
+
+}
+.form-top{
+    text-align: center;
+}
+.head1{
+    font-size: 2rem;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:1000;
+}
+.head2{
+    font-size: 1.5rem;
+}
+.head3{
+  font-size: 1rem;font-family: 'Times New Roman', Times, serif;
+
+}
+.form1{
+    margin-top: 2.3rem;
+    margin-left: 4rem;
+}
+.labl1{
+margin: 1rem;
+}
+.comu{
+    margin-left: 1rem;
+}
+.comunity{
+    font-size: medium;
+}
+.famly{
+    margin-left: 3rem;
+    font-size: larger;
+}
+.form2{
+    margin-left: 2.6rem;
+}
+table{
+    background-color: rgb(238, 240, 240);
+}
+.buttons{
+    margin-left:40rem;
+}
